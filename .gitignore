@@ -1,5 +1,3 @@
 .idea
 venv
 *cache*
-pyproject.toml
-poetry.lock
